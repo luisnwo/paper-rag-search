@@ -1,0 +1,4 @@
+docling
+chromadb
+sentence-transformers
+requests
