@@ -76,9 +76,6 @@ python -m cli answer --db ./chroma_db --q "..." --source "ID-123.pdf"
 python -m cli answer --db ./chroma_db --q "..." --source "ID-123.pdf"
 ```
 
-## Data 
-Already converted md- and json-files can be downloaded [here](https://seafile.cloud.uni-hannover.de/d/b96be1bac1204ce9bab6/)
-
 ## File structure 
 ```
 src/
